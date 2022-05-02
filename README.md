@@ -1,7 +1,7 @@
 # OpenGL_Scenario
 Program obsługujący scenarie 3D.
 
-wymaga:
+wymaga:</br>
 -glm
 -glew-2.2.0
 -SFML-2.5.1
